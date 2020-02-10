@@ -126,6 +126,7 @@ header {
   padding-top: 80px;
   padding-bottom: 50px;
   color: #5f5d60;
+  text-align:center;
 }
 
 .heading h2 {
@@ -193,6 +194,8 @@ footer {
   padding-top: 30px;
   padding-bottom: 20px;
 }
+.last{
+  text-align:center;}
 
 /* -------------------- CSSはここから追加していきましょう！ -------------------- */
 .menu-icon {
